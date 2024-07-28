@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "appvoice"
+version = "0.1.0"
+description = ""
+authors = ["nikolay <kolanesov2858@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flet = "^0.23.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
