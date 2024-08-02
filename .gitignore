@@ -1,1 +1,4 @@
-aiijc_ast/
+ast_save/
+cnn_save/
+.idea/
+.ipynb_checkpoints/
