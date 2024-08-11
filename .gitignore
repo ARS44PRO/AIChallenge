@@ -1,4 +1,9 @@
-ast_save/
-cnn_save/
+saves/
+libs/
 .idea/
 .ipynb_checkpoints/
+logs/
+RNNoise_Wrapper/
+.venv/
+*.npy
+*.DS_Store
