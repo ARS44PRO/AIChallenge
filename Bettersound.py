@@ -2,9 +2,9 @@ import pandas as pd
 from rnnoise_wrapper import RNNoise
 from pydub import AudioSegment
 
-#path - путь до csv файла с данными о файлах
-#input_path - путь до папки, где находятся изначальные аудиофайлы
-#output_path - путь до папки, куда сохранять обработанные аудиофайлы 
+# path - путь до csv файла с данными о файлах
+# input_path - путь до папки, где находятся изначальные аудиофайлы
+# output_path - путь до папки, куда сохранять обработанные аудиофайлы 
 
 def do_sound_to_better(path, input_path, output_path):
 
