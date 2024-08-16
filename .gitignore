@@ -7,3 +7,5 @@ RNNoise_Wrapper/
 .venv/
 *.npy
 *.DS_Store
+data/
+new-data/
