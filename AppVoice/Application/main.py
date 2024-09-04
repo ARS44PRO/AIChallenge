@@ -1,4 +1,5 @@
 import flet as ft
-from pawapp.app import App
+from voiceapp.app import App
+
 
 ft.app(App)
